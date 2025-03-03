@@ -1,0 +1,6 @@
+[submodule "container_volume/ros_ws/src/sllidar_ros2"]
+	path = container_volume/ros_ws/src/sllidar_ros2
+	url = https://github.com/Slamtec/sllidar_ros2
+[submodule "drivers/pyusbip"]
+	path = drivers/pyusbip
+	url = https://github.com/tumayt/pyusbip
